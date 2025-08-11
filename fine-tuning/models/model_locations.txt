@@ -1,0 +1,4 @@
+The models can be found in their respective Hugging Face repositories/spaces:
+
+Gemma-2b: https://huggingface.co/priyam-turakhia/gemma-2-2b-it-numpy-refactor-merged-v1
+TinyLlama-1.1b: https://huggingface.co/julianpins/tinyllama-1.1b-chat-numpy-refactor-v1
