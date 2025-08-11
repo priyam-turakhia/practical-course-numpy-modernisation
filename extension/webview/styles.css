@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+#loader {
+    font-weight: bold;
+    font-size: 18px;
+    color: grey;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-top: 25px;
+}
+
+pre {
+    background-color: lightgrey;
+    padding: 1px;
+    border: 1px solid white;
+    border-radius: 2px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+button {
+    background-color: rgb(9, 89, 181); 
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    width: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+}
+button:hover {
+    background-color: rgb(49, 110, 180);
+}
