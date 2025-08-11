@@ -28,8 +28,8 @@ Follow these steps to set up and run the project locally.
 ### Installation
 1. **Clone the repository:**
     ```bash
-        git clone [https://gitlab.lrz.de/bpc-ss-25/mcmurdo.git]
-        cd mcmurdo
+        git clone [https://github.com/priyam-turakhia/practical-course-numpy-modernisation.git]
+        cd practical-course-numpy-modernisation
     ```
 
 2. **Install dependencies**
